@@ -32,17 +32,17 @@ module.exports = {
         global.fla = pickRandom(global.flaaa)
         global.namabot = conn.user.name
         global.packname = '© CUTE IQ-MD'
-        global.author = 'Made By Ziv San © 2022'
+        global.author = 'Made By FauziBotz-Md © 2022'
         global.packname2 = 'Made With'
-        global.author2 = 'Cute Bot By Ziv San © 2022'
-        global.wm3 = '·͟͟͟͟͟͟͞͞͞͞͞͞Made By Ziv San˚'
-        global.wm2 = '© CUTE IQ-MD' + ' ' + 'By Ziv San'
+        global.author2 = 'Cute Bot By FauziBotz-Md © 2022'
+        global.wm3 = '·͟͟͟͟͟͟͞͞͞͞͞͞Made By Fauzi˚'
+        global.wm2 = '© CUTE IQ-MD' + ' ' + 'By FauziBotz-Md'
         global.wm = '© CUTE IQ-MD'
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'By Haori & Ziv San'
+        global.colong2 ='By FauziBotz-Md '
         global.kontak2 = [
-        ['16199961931', 'Ziv San', 'Creator Bot', 'Zivsan@support.com', true],
-        ['6282179137771', 'CUTE IQ-MD', 'Bot WhatsApp', 'Just Bot', true]
+        ['19146271508', 'Fauzi', 'Creator Bot', 'Zivsan@support.com', true],
+        ['19146271508', 'CUTE IQ-MD', 'Bot WhatsApp', 'Just Bot', true]
         ]
         global.bg = await (await fetch(img)).buffer()
         global.time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
